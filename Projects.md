@@ -2,6 +2,7 @@
 layout: page
 title: Projects 项目
 permalink: /projects/
+image: /Images/prepage.jpg
 ---
 ## 1.	[Yotta](https://github.com/hanhonglei/Yotta)
 ![]({{site.url}}/Images/Proj/yotta.jpg){:width="300px"}
@@ -135,9 +136,6 @@ You can also find the information of this paper in the `publications` page [here
 需要首先设定2个程序运行参数：第一是所要调入`Gif`图像的文件名（如果不再当前文件夹下，需要指定详细路径）；第二是所调入角色运动的朝向（`r`表示向右，`l`表示向左）。
 比如，用户需要处理名为brachio的gif角色动画，则需要在`bat`文件中输入必要参数如下：
 
-{% highlight csharp %}
-AnmTest.exe brachio.gif r
-{% endhighlight %}
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

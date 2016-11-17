@@ -2,6 +2,7 @@
 layout: page
 title: About 简历
 permalink: /about/
+image: /Images/prepage.jpg
 ---
 ![Myself]({{site.url}}/Images/Me.jpg){:height="150px"}
 ![MyselfComic]({{site.url}}/Images/MeComic.jpg){:height="150px"}
